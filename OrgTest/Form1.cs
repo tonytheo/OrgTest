@@ -12,12 +12,6 @@ namespace OrgTest
 {
     public partial class Form1 : Form
     {
-        // comment from tonytheo
-        // comment 2 from tonytheo
-        // comment 3 from tonytheo
-        // comment 4 from tonytheo
-        // comment 5 from tonytheo
-
         public Form1()
         {
             InitializeComponent();
@@ -25,12 +19,6 @@ namespace OrgTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //event comment
-            //event comment 2
-            //event comment 3
-            //event comment 3
-            //event comment 4
-
             this.BackColor = Color.DarkRed;
         }
     }
