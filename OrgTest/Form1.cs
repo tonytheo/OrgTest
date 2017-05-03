@@ -12,6 +12,8 @@ namespace OrgTest
 {
     public partial class Form1 : Form
     {
+        int ownerInt = 9;
+
         public Form1()
         {
             InitializeComponent();
