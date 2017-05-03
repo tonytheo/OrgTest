@@ -12,7 +12,9 @@ namespace OrgTest
 {
     public partial class Form1 : Form
     {
+
         int memberInt = 7;
+        int ownerInt = 9;
 
         public Form1()
         {
