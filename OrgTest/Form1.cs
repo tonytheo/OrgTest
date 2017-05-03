@@ -22,7 +22,7 @@ namespace OrgTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.BackColor = Color.DarkRed;
+            this.BackColor = Color.Green;
         }
     }
 }
